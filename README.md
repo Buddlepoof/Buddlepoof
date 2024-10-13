@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Buddlepoof
-- 🌱 I’m currently learning html
-- 💞️ I’m looking to collaborate on proxies
+- 🙂I like to code games that make people happy
 
 
 <!---
