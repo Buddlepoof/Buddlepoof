@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Buddlepoof
-- 🙂I like to code simple games that make people happy
-- 😅I also like to turn laptops into thermonuclear bombs
+- 🙂I like to code and play games
+
 
 <!---
 Buddlepoof/Buddlepoof is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
